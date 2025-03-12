@@ -45,3 +45,10 @@
 .border {
     border: 1px solid #742c2c;
 }
+
+header .navbar {
+    top: 20px;
+}
+header .navbar-brand img {
+    max-height: 48px;
+}
