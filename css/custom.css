@@ -50,5 +50,11 @@ header .navbar {
     top: 20px;
 }
 header .navbar-brand img {
-    max-height: 48px;
+    margin-top: 44px;
+}
+header .navbar-brand .mobile-logo {
+    margin-top: 40px;
+}
+.footer-link img {
+    max-width: 16px;
 }
