@@ -46,6 +46,7 @@
     border: 1px solid #742c2c;
 }
 
+/* To fix logo */
 header .navbar {
     top: 20px;
 }
@@ -53,7 +54,8 @@ header .navbar-brand img {
     margin-top: 44px;
 }
 header .navbar-brand .mobile-logo {
-    margin-top: 40px;
+    margin-top: 60px;
+    max-height: 75px;
 }
 .footer-link img {
     max-width: 16px;
